@@ -1,0 +1,3 @@
+ring: 44mm diameter
+inner hole: 14mm
+mounting holes: 25mm centers / 3.3mm diameter
